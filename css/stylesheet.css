@@ -1,0 +1,58 @@
+body{
+    background-color:darkgrey;
+    
+}
+
+.container{
+    text-align: center;
+    display: block;
+}
+#redBox {
+    /*background-color: #FF0000;*/
+    background-color: white;
+    height: 30px;
+    width: 400px;
+    padding: 10px;
+  }
+#orangeBox {
+    /*background-color: #FF6300;*/
+    background-color: white;
+    height: 30px;
+    width: 400px;
+    padding: 10px;
+}
+#yellowBox {
+    /*background-color: #FFFF00;*/
+    background-color: white;
+    height: 30px;
+    width: 400px;
+    padding: 10px;
+}
+#greenBox {
+   /* background-color: #008000;*/
+    background-color: white;
+    height: 30px;
+    width: 400px;
+    padding: 10px;
+}
+#blueBox {
+    /*background-color: #0000FF;*/
+    background-color: white;
+    height: 30px;
+    width: 400px;
+    padding: 10px;
+}
+#purpleBox {
+    /*background-color: #4B0082;*/
+    background-color: white;
+    height: 30px;
+    width: 400px;
+    padding: 10px;
+}
+#violetBox {
+    /*background-color: #BD31FF;*/
+    background-color: white;
+    height: 30px;
+    width: 400px;
+    padding: 10px;
+}
